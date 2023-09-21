@@ -5,7 +5,7 @@ Submitted by: Ji Zhang
 
 Wordle is an app that has a simple word puzzle game where players have six attempts to guess a five-letter word, with each correct letter placement revealed by color hints after each guess.
 
-Time spent: 8 hours spent in total
+Time spent: 10 hours spent in total
 
 ## Required Features
 
@@ -35,7 +35,7 @@ Click on the gif to watch the demo video. You will leave this page in doing so.
 
 ## Notes
 
-I had a configuration issue in the beginning, and it was fixed after updating my macOS system and XCode. I was not able to automatically update the XCode because there was a virus attack in my system, and was eating up my storage space. However, updating macOS helped to mitigate that issue and allowed me to update XCode. 
+I had a configuration issue in the beginning, and it was fixed after updating my macOS system and XCode. I was not able to automatically update the XCode. I spent some time trying to discover the problem and asked my instructor for help. Eventually, I found out that there was an unknown virus attack in my system, and was eating up my storage space. However, updating macOS helped to mitigate that issue and allowed me to update XCode and run my files properly. 
 
 ## License
 
