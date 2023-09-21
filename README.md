@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
+- [ ] Improve and customize the user interface by adding a launch screen and app icon
 - [ ] Run the app on a device rather than in the simulator
 
 The following **additional** features are implemented:
@@ -26,9 +26,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/3c9b0a33f2264633a764b8d99f7bc914">
+    </a>
+    <a href="https://www.loom.com/share/3c9b0a33f2264633a764b8d99f7bc914">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3c9b0a33f2264633a764b8d99f7bc914-with-play.gif">
+    </a>
+</div>
 
 
 ## Notes
