@@ -27,14 +27,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 </a>
-     <a href="https://www.loom.com/share/3c9b0a33f2264633a764b8d99f7bc914">
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3c9b0a33f2264633a764b8d99f7bc914-1695305711258-with-play.gif">
 </a>
 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a configuration issue in the beginning, and it was fixed after updating my macOS system and XCode. I was not able to automatically update the XCode because there was a virus attack in my system, and was eating up my storage space. However, updating macOS helped to mitigate that issue and allowed me to update XCode. 
 
 ## License
 
