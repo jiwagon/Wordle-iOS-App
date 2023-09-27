@@ -1,5 +1,5 @@
 
-# Project 1 - Wordle Pt. 1 Starter
+# Project 1 - Wordle Pt. 1
 
 Submitted by: Ji Zhang
 
