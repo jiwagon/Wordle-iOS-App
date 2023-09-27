@@ -29,9 +29,8 @@ The following **additional** features are implemented:
 Click on the gif to watch the demo video. You will leave this page in doing so.
 
 <a href="https://www.loom.com/share/3c9b0a33f2264633a764b8d99f7bc914">
-    <img src="https://im4.ezgif.com/tmp/ezgif-4-e5b4e454fb.gif" width="252" height="540">
+    <img src="https://www.loom.com/embed/3c9b0a33f2264633a764b8d99f7bc914?sid=a1a774a2-aea1-45f0-a7fc-9c22a92a9ee3.gif" width="252" height="540">
 </a>
-
 
 ## Notes
 
